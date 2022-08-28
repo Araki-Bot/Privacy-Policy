@@ -1,42 +1,47 @@
-## **Araki's Privacy Policy**
-### By using Araki you accept with its privacy policy.
 
-## 1. What does it store?
+## Araki's Privacy Policy 
 
- - Server IDs for servers data(prefixes, settings)
- - User IDs for economy system, levelling, afks.
-
-## 2. Who can access the data?
-
- #### 1. Following people can access ALL of the data:
- -  Bot developer(s)
+By using Araki, you accept its privacy policy. In this policy I clearly mentioned what data we collect and how we use it. Also we have shown how to opt-out of providing us data and delete existing data easily.
 
 
-#### 2. Following people can access afk:
-- Only afks author(s)
+### 1. What does it store?
+- User ID for whitelisting & blacklisting user in `automod`, `levelling system`.
+- Server ID for `automod`, `levelling system`, `self-roles`, `custom guild prefixes`, `welcome system`, `giveaways`.
 
-#### 2. Following people can access economy:
-- Only the user(s)
+### 2. Who can access the data?
+- Araki Developer(s)
 
+### 3. Why do we store the data?
+#### 1. It stores server IDs:-
+-Without those most of the bot wouldn't be functional. The `automod`, `levelling system`.
+- Server ID for `automod`, `levelling system`, `self-roles`, `custom guild prefixes`, `welcome system`, `giveaways` features are depends on server ID.
 
-## 3. Why do we store the data?
+#### 2. It stores user IDs for:-
+- `economy system`, `global afk system`, `levelling system` Without these data the bot can't configure
 
-#### 1. It stores server IDs for settings and data because:
-- Without those most of the bot wouldn't be functional.
+### 4. How can I get rid of the data stored or delete my data?
+#### 1 If you want to delete server specific data so you can follow these methods:-
+- You can simply kick the bot from your server and it will delete all the data which collected from your server.
 
-#### 2. It stores user IDs for economy, afks, levelling system:
-- Bot needs to find the user that has the data stored in the database.
+#### 2 If you want to delete user specific data so you can follow these methods:-
+- Join the support server and mention Araki Developers to delete your data.
 
+- You can use **/logout** to delete your all data instantly.
 
-## 5. I'm questioning why do you need all this data, and this Privacy Policy doesn't answer my question. What should I do?
+### 5. We may change this policy without any warning.
 
-#### You can reach us by the following things:
-- Join our [Support Server](https://araki.social/support) on discord
+- We can update this policy anytime but we will inform you through the support server if any change takes place.
+Araki is a free discord app developer by Pranoy#0140. This Service is provided by Araki Developer at no cost and is intended for use as is.
+This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
 
-## 6. How can we delete our entire data?
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at Araki unless otherwise defined in this Privacy Policy.
 
-### Simply join our support server and ask any of the bot moderator to delete your entire data, They will delete your entrie data without asking any question.
+### Security
 
+I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I guarantee its absolute security.
 
-## Please note, that we can change this policy without any warning at any given time.
-#### **Last changed:**  `2022 March 5th`
+### Changes to This Privacy Policy
+I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
+
+### Contact Us
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at arakibotofficial@gmail.com.
